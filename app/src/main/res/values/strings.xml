@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">W05_Kafeteria</string>
+    <string name="starbuzz_logo">Logo kafeterii</string>
+
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Kafeterie</item>
+    </string-array>
+
+
+</resources>
